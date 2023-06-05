@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61525036-dd63-448d-9328-7acd5df04eb1" name="Changes" comment="First case study on recursion. Computing for Factorials.">
-      <change afterPath="$PROJECT_DIR$/src/ComputeFibonaci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DirectorySize.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factorials.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factorials.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2PrxZkBU6sOyb73rSZYKuLCqh7D" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,13 +37,21 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/home/monari/Desktop/recursions_module",
     "onboarding.tips.debug.path": "/home/monari/Desktop/recursions_module/src/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.ComputeFibonaci">
+  <component name="RunManager" selected="Application.DirectorySize">
     <configuration name="ComputeFibonaci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ComputeFibonaci" />
+      <module name="recursions_module" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DirectorySize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DirectorySize" />
       <module name="recursions_module" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,6 +66,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DirectorySize" />
         <item itemvalue="Application.ComputeFibonaci" />
         <item itemvalue="Application.Factorials" />
       </list>
